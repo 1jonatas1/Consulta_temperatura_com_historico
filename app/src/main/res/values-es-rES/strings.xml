@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Verificador de temperatura "</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="invalid_url">"URL invalida "</string>
+    <string name="weather_condition_image">"Representación gráfica de las condiciones climáticas. "</string>
+    <string name="high_temp">Max: %s</string>
+    <string name="low_temp">Min: %s</string>
+    <string name="humidity">Humedad: %s</string>
+    <string name="hint_text">" Escriba el nombre de la ciudad"</string>
+    <string name="read_error">"No se pudo leer los datos "</string>
+    <string name="connect_error">"No se pudo conectar al servidor "</string>
+    <string name="lang">es</string>
+</resources>
